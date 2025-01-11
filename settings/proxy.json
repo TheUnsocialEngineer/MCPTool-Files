@@ -1,0 +1,10 @@
+{
+    "velocityVersion": "1.7.2-1.21.4",
+    "fakeproxyVersion": "https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/459/downloads/velocity-3.4.0-SNAPSHOT-459.jar",
+    "velocity": {
+        "port": "25566"
+    },
+    "fakeproxy": {
+        "port": "33330"
+    }
+}
